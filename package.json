@@ -1,0 +1,32 @@
+{
+  "name": "kraken-rx",
+  "version": "1.0.0",
+  "description": "A wrapper around Kraken.com API for Node.js with RxJS support",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard --fix && mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LobeTia/kraken-rx.git"
+  },
+  "keywords": [
+    "kraken",
+    "kraken-api",
+    "kraken-rxjs",
+    "rxjs",
+    "stock",
+    "ohlc",
+    "trade"
+  ],
+  "author": "Lobertini Mattia <lobetia@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LobeTia/kraken-rx/issues"
+  },
+  "homepage": "https://github.com/LobeTia/kraken-rx#readme",
+  "devDependencies": {
+    "chai": "3.5.0",
+    "standard": "9.0.2"
+  }
+}
